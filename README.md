@@ -1,34 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <a target="blank"><img src="https://github.com/MauricioAraujo1/Book-API/assets/106497974/1fe347aa-abfd-46eb-8c43-fe8f4fa14f77" width="900" alt="Book-logo" /></a>
+</p>
 
-## Getting Started
+[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
+[circleci-url]: https://circleci.com/gh/nestjs/nest
 
-First, run the development server:
+</p>
+  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
+  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+<p align="center" dir="auto">⚔Widget de Notificações⚔</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+<h2>💻 Descrição do Projeto</h2>
+
+Nesta aplicação, teremos um widget de notificações onde o usuário poderar definir suas notificações preferidas e também escolher o tipo de tema como: dark/white. 
+
+<h2>🛠 Tecnologias</h2>
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [ ] [NextJS]
+- [ ] [TypeScript]
+- [ ] [TailwindCSS]
+
+<h2>🚀 Como executar o projeto</h2>
+
+<span class="pl-c"><span class="pl-c">#</span> Clone este repositório</span>
+
+```
+https://github.com/MauricioAraujo1/Book-API.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h2>🧭 Instalação</h2>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no terminal/cmd e execute os seguintes comandos:</span>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```
+$ cd Widget
+$ code .
+$ npm install
+```
 
-## Learn More
+<h2>🤝 Suporte</h2> 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/Book-API/issues).
 
-To learn more about Next.js, take a look at the following resources:
+<h2>👤 Autor</h2>
+**🕵 Maurício Araújo**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Github: [MauricioAraujo1](https://github.com/MauricioAraujo1)
+* LinkedIn: [@mauricioarj1](https://linkedin.com/in/mauricioarj1)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
