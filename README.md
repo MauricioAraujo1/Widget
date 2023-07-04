@@ -27,7 +27,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <span class="pl-c"><span class="pl-c">#</span> Clone este repositório</span>
 
 ```
-https://github.com/MauricioAraujo1/Book-API.git
+https://github.com/MauricioAraujo1/Widget.git
 ```
 
 <h2>🧭 Instalação</h2>
