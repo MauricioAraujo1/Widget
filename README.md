@@ -41,7 +41,7 @@ $ npm install
 ```
 
 <h2>🤝 Suporte</h2> 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/Book-API/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/MauricioAraujo1/Widget/issues).
 
 <h2>👤 Autor</h2>
 **🕵 Maurício Araújo**
